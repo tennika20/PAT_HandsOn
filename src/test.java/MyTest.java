@@ -49,7 +49,7 @@ public class CustomTest {
 
     
     @Test(timeout = 4000)
-    public void test009()  throws Throwable  {
+    public void test43()  throws Throwable  {
         AVLTree aVLTree0 = new AVLTree();
        
        aVLTree0.insert(10);
