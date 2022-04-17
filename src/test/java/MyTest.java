@@ -2,7 +2,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
 
-public class CustomTest {
+public class MyTest {
     @Test(timeout = 4000)
     public void test1() throws Throwable {
        
